@@ -1,5 +1,5 @@
-# A Middleware to log time-stamps, HTTP method, and path
-This is a middleware to log date, time, HTTP method and url in Node.js/Express environment
+# A Middleware to log time-stamps, HTTP method, path and response time
+This is a middleware to log date, time, HTTP method, url, and response time in Node.js/Express environment
 
 ## Usage
 ### Just put this part in the app.js before routes
